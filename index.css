@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+header {
+    background: #007bff;
+    color: white;
+    padding: 15px 0;
+    font-size: 24px;
+}
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+h2 {
+    color: #007bff;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    background: #e9ecef;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.whatsapp {
+    margin-top: 20px;
+}
+.whatsapp img {
+    width: 50px;
+}
+footer {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
